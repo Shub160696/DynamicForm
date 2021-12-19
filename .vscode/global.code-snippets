@@ -1,0 +1,7 @@
+{
+  "Print global translation variable": {
+    "prefix": "GLOBAL",
+    "body": "'GLOBAL.GLOBAL_LABELS.'",
+    "description": "it prints the translation global variable start name"
+  }
+}

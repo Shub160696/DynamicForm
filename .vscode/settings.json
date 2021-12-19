@@ -1,0 +1,14 @@
+{
+  "eslint.enable": true,
+  "eslint.run": "onType",
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.trace.server": "messages",
+  "editor.autoIndent": "advanced",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "prettier.eslintIntegration": true
+}
